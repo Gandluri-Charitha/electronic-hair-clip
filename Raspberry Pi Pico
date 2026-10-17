@@ -10,5 +10,16 @@ Install MicroPython on your Pico.
 Save ssd1306.py and main.py from the pico-micropython folder directly to the Pico's root storage using Thonny IDE.
 
 Restart the Pico via soft-reboot (Ctrl+D).
+
+How to Run
+Open Thonny IDE and connect your Raspberry Pi Pico via USB.
+
+Create and save ssd1306.py to the Pico.
+
+Create and save main.py to the Pico.
+
+Restart your Pico (Ctrl+D). The animation will boot automatically!
+
+
 License
 Open-source under the MIT License.
