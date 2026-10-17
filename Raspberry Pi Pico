@@ -1,0 +1,8 @@
+Raspberry Pi Pico (MicroPython)
+Install MicroPython on your Pico.
+
+Save ssd1306.py and main.py from the pico-micropython folder directly to the Pico's root storage using Thonny IDE.
+
+Restart the Pico via soft-reboot (Ctrl+D).
+License
+Open-source under the MIT License.
