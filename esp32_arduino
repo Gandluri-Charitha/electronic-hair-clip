@@ -1,0 +1,11 @@
+Open the Arduino IDE.
+
+Install the required libraries via Sketch > Include Library > Manage Libraries:
+
+Adafruit GFX Library
+
+Adafruit SSD1306
+
+Upload the sketch from esp32-arduino/esp32_star.ino to your ESP32 board.
+
+board used : esp32 Dev Board 
